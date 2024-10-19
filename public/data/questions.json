@@ -1,0 +1,30 @@
+{
+    "quantum-physics": [
+      {
+        "question": "What is a photon?",
+        "options": ["particle", "wave", "both", "neither"],
+        "answer": "both"
+      },
+      {
+        "question": "Which principle explains light’s dual behavior?",
+        "options": [
+          "Pauli Exclusion Principle",
+          "Heisenberg Uncertainty Principle",
+          "Wave-Particle Duality",
+          "Schrödinger Equation"
+        ],
+        "answer": "Wave-Particle Duality"
+      },
+      {
+        "question": "What is Heisenberg’s Uncertainty Principle?",
+        "options": [
+          "The position and momentum of a particle cannot both be known exactly at the same time",
+          "Energy and mass are equivalent",
+          "Light behaves both as a wave and as a particle",
+          "A cat in a box is either dead or alive"
+        ],
+        "answer": "The position and momentum of a particle cannot both be known exactly at the same time"
+      }
+    ]
+  }
+  
