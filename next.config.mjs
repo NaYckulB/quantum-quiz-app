@@ -1,11 +1,9 @@
-require('dotenv').config();
+import 'dotenv/config';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   env: {
     API_KEY: process.env.API_KEY,
-    DB_USER: process.env.DB_USER,
-    DB_PASSWORD: process.env.DB_PASSWORD,
     SECRET_KEY: process.env.SECRET_KEY,
   },
   pageExtensions: ['js', 'jsx', 'ts', 'tsx'],
